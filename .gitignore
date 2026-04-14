@@ -1,0 +1,6 @@
+.zig-cache
+.vs
+.vscode
+int
+out
+zig-out
